@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaydevzala
 - 👀 I’m a student in Penn State University seeking Bachelors in Information Science and Technology. I am based in Pennsylvania, United States
 - 🌱 Focusing on web development and trying to learn and create my coding skills. I'm trying to immerse myself in many different projects and work which would eventually help this world with design and coding.
-      I'm always trying to learn and grow something new.
+      I'm always trying to learn and develop something new.
       ##Find me elsewhere
       
 
